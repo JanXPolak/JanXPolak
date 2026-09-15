@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Studying Computer Science at the Polish-Japanese Academy of Information Technology in Warsaw<br>💻 Growing into a Web Developer — frontend, with ambitions toward full-stack<br>🌱 Currently learning: React, TypeScript, Node.js<br>🧠 Solid foundations in Java (OOP) and Python<br>🎯 Looking for an internship / first job as a developer<br>📫 Reach out on LinkedIn!
+🎓 Studying Computer Science at the Polish-Japanese Academy of Information Technology in Warsaw<br>💻 Growing into a Web Developer — frontend, with ambitions toward full-stack<br>🌱 Currently learning: React, TypeScript, Node.js<br>🧠 Solid foundations in Java (OOP) and Python<br>📫 Reach out on LinkedIn!
 
 
 ## 🌐 Socials:
